@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me shakthir20028@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Facts: Basement of coding a program is Logic building.
 
 <!---
 Shakthi0028/Shakthi0028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
